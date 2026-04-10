@@ -1,4 +1,4 @@
-# Expense Tracker (React Native + Expo)
+# MyWallet App
 
 A modern cross-platform expense tracking application built with Expo and React Native.  
 This app provides a complete personal finance flow, including authentication, bank management, expense/income entries, statistics, and polished UI transitions.
