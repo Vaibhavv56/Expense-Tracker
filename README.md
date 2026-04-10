@@ -6,7 +6,7 @@ This app provides a complete personal finance flow, including authentication, ba
 ## Design & Demo
 
 - **Figma Design Link:**  
-👉 https://www.figma.com/design/FJpPUyHOiBlMrwo1q0YxNX/MyWallet?node-id=0-1&t=MPXPTIGXjeB6iHeM-0  
+  [Figma](https://www.figma.com/design/FJpPUyHOiBlMrwo1q0YxNX/MyWallet?node-id=0-1&t=MPXPTIGXjeB6iHeM-0) 
 
 - **Demo Video:**  
   [Watch Demo Video](https://drive.google.com/file/d/1ijt5aEbtQ7WDvNbUn_mi8S48h7jxjNFN/view?usp=sharing)
